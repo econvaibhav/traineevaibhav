@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Traineeship Application</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Traineeship Application</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Motivation for this Traineeship</title>
+      <link>/posts/emoji-support/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Here are some of my motivations to work for this position&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I can handle this Position</title>
+      <link>/posts/creating-a-new-theme/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/creating-a-new-theme/</guid>
+      <description>&lt;p&gt;I believe I have the necessary skills for this position!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Selected Portfolio Subset</title>
+      <link>/posts/goisforlovers/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/goisforlovers/</guid>
+      <description>&lt;p&gt;Attached below is my portfolio relevant to this position&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me AGAIN</title>
+      <link>/posts/hugoisforlovers/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/hugoisforlovers/</guid>
+      <description>&lt;p&gt;Here is a bit about me. 4 sections was looking odd :)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I made a video as well...</title>
+      <link>/posts/migrate-from-jekyll/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/migrate-from-jekyll/</guid>
+      <description>&lt;p&gt;One requirement for the traineeship was taking interviews, I have made a demo interview video!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

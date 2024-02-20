@@ -1,0 +1,4 @@
+baseURL = "https://econvaibhav.github.io/"
+languageCode = "en-us"
+title = "Traineeship Application"
+theme = "newsroom"
